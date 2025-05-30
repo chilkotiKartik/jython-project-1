@@ -71,7 +71,7 @@ MIT License
 ## ✍️ Author
 
 **Kartik Chilkoti**  
-GitHub: https://github.com/kartikchilkoti  
+GitHub: https://github.com/chilkotikartik  
 Hackathon Enthusiast • Music + Tech Creator
 
 ---
